@@ -115,11 +115,27 @@ The system successfully converted clicked pixel locations into robot base coordi
 The full code is in `final_test.py` file
 
 ---
+
+
+
 ###  Image used 
+
+
 ![alt text](images/wi.jpeg)
+
 ### Result
+
+
 ![alt text](output_with_points.jpg)
-## Challenges Faced  
+
+
+---
+## Conclusion
+---
+
+### Challenges Faced 
+---
+
 
 This lab was both challenging and interesting. One major issue we encountered was related to **image resolution mismatch**.
 
@@ -140,7 +156,7 @@ Once the resolution mismatch was corrected, the mapping worked properly.
 
 ---
 
-## Learning Outcomes  
+### Learning Outcomes  
 
 From this lab, we learned:
 
@@ -152,9 +168,10 @@ From this lab, we learned:
 
 ---
 
-## Conclusion  
+### Overall 
 
 This lab was a valuable practical experience. Collecting robot coordinates was straightforward, but calibrating pixel points and computing the transformation required careful debugging.
+
 
 The entire process took approximately **6–7 hours**, including resolving the resolution mismatch issue.
 
